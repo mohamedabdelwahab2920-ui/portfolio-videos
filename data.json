@@ -1,0 +1,16 @@
+{
+  "categories": {
+    "showreel": true,
+    "youtube": true,
+    "realestate": true,
+    "podcast": true,
+    "promo": true,
+    "ai_reels": true,
+    "talking": true,
+    "corporate": true,
+    "motion": true
+  },
+  "videos": [
+    { "title": "YouTube Channel Edit", "category": "youtube", "url": "assets/videos/showreel_web.mp4", "order": 1 }
+  ]
+}

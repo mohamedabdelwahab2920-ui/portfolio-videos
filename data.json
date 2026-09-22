@@ -11,6 +11,17 @@
     "motion": true
   },
   "videos": [
-    { "title": "YouTube Channel Edit", "category": "youtube", "url": "assets/videos/showreel_web.mp4", "order": 1 }
+    {
+      "title": "YouTube Channel Edit",
+      "category": "youtube",
+      "url": "assets/videos/showreel_web.mp4",
+      "order": 1
+    },
+    {
+      "title": "Ai Voice Over",
+      "category": "ai_reels",
+      "url": "https://cdn.jsdelivr.net/gh/mohamedabdelwahab2920-ui/portfolio-videos@main/Ai20%Voice20%over.mp4",
+      "order": 3
+    }
   ]
 }

@@ -54,12 +54,6 @@
       "order": 1
     },
     {
-      "title": "Ai Voice Over",
-      "category": "ai_reels",
-      "url": "https://cdn.jsdelivr.net/gh/mohamedabdelwahab2920-ui/portfolio-videos@main/Ai20%Voice20%over.mp4",
-      "order": 3
-    },
-    {
       "title": "Showreel",
       "category": "showreel",
       "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790151799/oqe35xb24mdsysvz4ayc.mp4",
@@ -178,6 +172,12 @@
       "category": "ai_reels",
       "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790334721/eeti4kxpj4e74jn9fecr.mp4",
       "order": 5
+    },
+    {
+      "title": "Ai Voice Over",
+      "category": "ai_reels",
+      "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790335225/tps0camwxqgoymdlzh7p.mp4",
+      "order": 6
     }
   ]
 }

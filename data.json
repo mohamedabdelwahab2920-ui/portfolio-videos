@@ -7,7 +7,7 @@
     },
     "youtube": {
       "name": "YouTube Editing",
-      "order": 8,
+      "order": 9,
       "visible": true
     },
     "realestate": {
@@ -17,12 +17,12 @@
     },
     "podcast": {
       "name": "Podcasts",
-      "order": 5,
+      "order": 6,
       "visible": true
     },
     "promo": {
       "name": "Promo & Motion Reels",
-      "order": 6,
+      "order": 7,
       "visible": true
     },
     "ai_reels": {
@@ -32,7 +32,7 @@
     },
     "talking": {
       "name": "Talking-Head Reels",
-      "order": 7,
+      "order": 8,
       "visible": true
     },
     "corporate": {
@@ -42,7 +42,12 @@
     },
     "motion": {
       "name": "Motion Graphics",
-      "order": 9,
+      "order": 10,
+      "visible": true
+    },
+    "social_media": {
+      "name": "Social Media",
+      "order": 5,
       "visible": true
     }
   },
@@ -178,6 +183,12 @@
       "category": "ai_reels",
       "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790335225/tps0camwxqgoymdlzh7p.mp4",
       "order": 6
+    },
+    {
+      "title": "Rezk",
+      "category": "social_media",
+      "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790430516/hu3nslpy7drupihfi9hq.mp4",
+      "order": 1
     }
   ]
 }

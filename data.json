@@ -189,6 +189,12 @@
       "category": "social_media",
       "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790430516/hu3nslpy7drupihfi9hq.mp4",
       "order": 1
+    },
+    {
+      "title": "Event",
+      "category": "corporate",
+      "url": "https://res.cloudinary.com/sgp8ywpi/video/upload/v1790703385/j5hiwweiu20t7kivvjv4.mp4",
+      "order": 3
     }
   ]
 }
